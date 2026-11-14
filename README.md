@@ -94,3 +94,9 @@ MIT. Bebas dipakai, diubah, dan dibagikan.
 
 ## Skill: kantor 3 agen
 Unduh `skill/kantor-ai-3-agen.zip`, taruh foldernya di `~/.claude/skills/` (Claude Code) atau minta Codex/Antigravity membaca `SKILL.md`, lalu ketik: "buat kantor AI 3 agen untuk bisnisku".
+
+
+---
+<!-- kredit-maliki -->
+**Kredit:** Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id.
+**Lisensi Nonkomersial Maliki Studio:** gratis untuk belajar & usaha/organisasi sendiri. Dilarang dijual, dijual ulang, atau dipakai untuk jasa berbayar. Kredit wajib dipertahankan. Lihat `LICENSE`.

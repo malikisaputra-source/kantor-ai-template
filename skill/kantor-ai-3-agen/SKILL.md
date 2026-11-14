@@ -72,3 +72,9 @@ Set `TAMPIL_PEMILIH_GAYA = false` sebelum merekam video final.
 - Jangan menambah teks, klaim, atau janji ke klien di layar yang tidak diminta pengguna.
 - Bentuk 3D tetap sederhana (lihat AGENTS.md). Jangan menambah model/aset luar.
 - Selesai = `npm test` lulus, build sukses, dan kantor sudah dilihat di browser.
+
+
+---
+<!-- kredit-maliki -->
+**Kredit:** Template oleh Maliki Saputra (@malikisaputra) — https://malikisaputra.biz.id.
+**Lisensi Nonkomersial Maliki Studio:** gratis untuk belajar & usaha/organisasi sendiri. Dilarang dijual, dijual ulang, atau dipakai untuk jasa berbayar. Kredit wajib dipertahankan. Lihat `LICENSE`.
